@@ -3,7 +3,7 @@ package mainarraystudente;
 
 
 public class First {
-    private String cognomeD;
+    private String cognomeD; //NETBEANS
     private Studente arrayS[]; //array di oggetti di tipo studente
     private int dim; //dimensione ovvero numero di studenti
     private int nPos; //prima posizione libera dell'array
